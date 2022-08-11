@@ -9,8 +9,8 @@ the script will genereate 2 reports that contains everything about the league an
 How to use it.
 ---------------
 
-1- open the league from your browser. for example - https://fantasy.premierleague.com/leagues/xxxxxx/standings/c
-2- take the league number (the position of xxxxxx in the link)
-3- change the league number variable (line 11).
-4- run the script.
-5- the reports will be under a new folder created.
+1- open the league from your browser. for example - https://fantasy.premierleague.com/leagues/xxxxxx/standings/c \n
+2- take the league number (the position of xxxxxx in the link) \n
+3- change the league number variable (line 11). \n
+4- run the script. \n
+5- the reports will be under a new folder created. \n
