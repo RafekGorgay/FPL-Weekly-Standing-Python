@@ -1,6 +1,5 @@
 # FPL-Weekly-Standing-Python
 # Developer: Rafek Gorgay
-# purpose: hobby
 
 this is a python script that will get all data for any league in fantasy premier league (https://fantasy.premierleague.com/)
 the script will genereate 2 reports that contain everything about the league and the players that are in the league.
