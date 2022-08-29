@@ -71,5 +71,6 @@ player_table.rename(columns= {'id': 'ID'}, inplace=True)
 table = pd.merge(table, player_table, how='outer', on='ID')
 
 # save CSV files
-table.to_csv(str(date.today()) + ' current standings.csv', index=False, encoding='utf_8_sig')
-player_current_table.to_csv(str(date.today()) + ' players history detail.csv', index=False)
+table.to_csv('Current standings.csv', index=False, encoding='utf_8_sig')
+player_current_table.to_csv('Details.csv', index=False)
+

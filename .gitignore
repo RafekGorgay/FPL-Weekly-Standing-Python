@@ -1,3 +1,6 @@
 *.csv
 /reports
 FPL_Rafek.py
+/.vscode
+sharepoint_upload.py
+/Friends
